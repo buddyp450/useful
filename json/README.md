@@ -1,2 +1,3 @@
-=== JSON ===
+JSON
+======
 http://trentm.com/json/
