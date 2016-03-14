@@ -8,5 +8,6 @@
         "no-use-before-define": [2, "nofunc"],
         "strict": [0],
         "no-console": [0],
+        "camelcase": [1],
     }
 }
